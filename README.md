@@ -10,4 +10,4 @@
 }
 ```
 ### app Gradle添加
-```compile 'com.github.jasonsyf:LoadApkAndInstallLib:v0.2.1'```
+```compile 'com.github.jasonsyf:LoadApkAndInstallLib:v0.2.2'```
